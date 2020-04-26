@@ -1,6 +1,6 @@
 # MLLab
 Тута лабы по Машинному обучению 
-![](https://github.com/dwragon/MLLab/blob/master/lab3/s11.png)
+![](https://github.com/dwragon/MLLab/blob/master/lab3/s01.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab3/s22.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab3/s33.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab3/s44.png)

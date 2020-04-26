@@ -1,10 +1,10 @@
 # MLLab
 Тута лабы по Машинному обучению 
-![](https://github.com/dwragon/MLLab/blob/master/lab3/s1.png)
-![](https://github.com/dwragon/MLLab/blob/master/lab3/s2.png)
-![](https://github.com/dwragon/MLLab/blob/master/lab3/s3.png)
-![](https://github.com/dwragon/MLLab/blob/master/lab3/s4.png)
-![](https://github.com/dwragon/MLLab/blob/master/lab3/s5.png)
-![](https://github.com/dwragon/MLLab/blob/master/lab3/s6.png)
-![](https://github.com/dwragon/MLLab/blob/master/lab3/s7.png)
-![](https://github.com/dwragon/MLLab/blob/master/lab3/s8.png)
+![](https://github.com/dwragon/MLLab/blob/master/lab3/s11.png)
+![](https://github.com/dwragon/MLLab/blob/master/lab3/s22.png)
+![](https://github.com/dwragon/MLLab/blob/master/lab3/s33.png)
+![](https://github.com/dwragon/MLLab/blob/master/lab3/s44.png)
+![](https://github.com/dwragon/MLLab/blob/master/lab3/s55.png)
+![](https://github.com/dwragon/MLLab/blob/master/lab3/s66.png)
+![](https://github.com/dwragon/MLLab/blob/master/lab3/s77.png)
+![](https://github.com/dwragon/MLLab/blob/master/lab3/s88.png)

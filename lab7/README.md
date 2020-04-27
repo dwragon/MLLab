@@ -1,5 +1,5 @@
 # MLLab
-Тута лабы по Машинному обучению 
+Здесь лабы по Машинному обучению 
 ![](https://github.com/dwragon/MLLab/blob/master/lab7/ss1.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab7/ss2.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab7/ss3.png)

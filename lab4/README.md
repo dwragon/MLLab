@@ -1,5 +1,7 @@
 # MLLab
-Здесь лабы по Машинному обучению 
+Машинное обучение(лабораторная работа №4)
+=========
+Тема: восстановление плотности распределения
 ![](https://github.com/dwragon/MLLab/blob/master/lab4/s01.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab4/s22.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab4/s33.png)
